@@ -1,0 +1,24 @@
+.landing {
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+}
+
+.distortion {
+    width: 550px; /* 640px; */
+    height: 750px; /*730px;*/
+    align-self: center;
+}
+
+.intro {
+    align-self: center;
+}
+
+.intro h2 {
+    font-size: 40px;
+}
+
+.intro p {
+    font-size: 20px;
+}
+
